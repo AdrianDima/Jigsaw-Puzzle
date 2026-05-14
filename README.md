@@ -1,6 +1,6 @@
 # High-Performance Jigsaw Puzzle Engine
 
-A web-based, real-time jigsaw puzzle game built from scratch using a procedural **Flask** backend, native **JavaScript**, and **CSS**. This project explores the optimization of real-time state management, coordinate manipulation, and algorithmic geometry.
+A web-based, real-time jigsaw puzzle **single-player, persistent-session web game** built from scratch using a procedural **Flask** backend, native **JavaScript**, and **CSS**. This project explores the optimization of real-time state management, coordinate manipulation, and algorithmic geometry.
 
 ---
 
